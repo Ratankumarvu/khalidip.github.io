@@ -1,0 +1,56 @@
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Khalid Ahmed , Student, Dept. of Computer Science and Engineering, Varendra University">
+    <meta name="author" content="Khalid Ahmed">
+    <link rel="icon" href="favicon.ico?v=001">
+    <title>Khalid Ahmed | Student | Dept. of Computer Science and Engineering | Varendra University</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/narrow-jumbotron.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <header class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+              <a class="nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+              <a class="nav-link" href="education.html">Education</a>
+            </li>
+            <li class="nav-item">
+                <li class="nav-item">
+              <a class="nav-link" href="achievement.html">Achievment</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="experience.html">Experience</a>
+            </li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">Khalid Ahmed</h3>
+      </header>
+      <main role="main">
+      <div class="row marketing">
+          <div class="col-lg-4">
+            <img src="img/di.JPG" alt="Photo of Khalid Ahmed" class="img-thumbnail">
+            <br>
+            <br>
+            </div>
+          <div class="col-lg-8">
+            <p class="text-justify">Hi, I am Khalid Ahmed.</p>            
+            <p class="text-justify">Now I am student of the Department of Computer Science &amp; Engineering in Varendra University,Rajshahi-6204, Bangladesh.</p>
+            <p class="text-justify">I'm interested in Networking.
+            I'm motivated to solve various problems in Networking.</p>
+            <br>
+            <br>
+            <h4>Contact</h4>
+            <i class="fa fa-envelope"></i> 01728654369 </br>
+            <i class="fa fa-envelope"></i> khalid.dipto@gmail.com            
+          </div>
+      </main>
+      <footer class="footer">
+        <p>© Khalid Ahmed 2017-2018</p> &nbsp;&nbsp;&nbsp;<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=frmahmud.github.io&digit=style/plain/30/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
+            </footer>
+    </div>
+</body>
+</html>
